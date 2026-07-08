@@ -39,6 +39,8 @@ Date: 2026-07-08
 
 - [2026-07-08 board public record](docs/2026-07-08-board-public-record.md)
 - [Capability overview](docs/capability-overview.md)
+- [Unplug recovery public record](docs/unplug-recovery-public-record.md)
+- [Fault-injection hardening notes](docs/fault-injection-hardening-notes.md)
 - [Technical boundary](docs/technical-boundary.md)
 
 ## Boundary
