@@ -37,11 +37,22 @@ Date: 2026-07-08
 
 ## Documents
 
+- [Community use guide](COMMUNITY.md)
 - [2026-07-08 board public record](docs/2026-07-08-board-public-record.md)
 - [Capability overview](docs/capability-overview.md)
 - [Unplug recovery public record](docs/unplug-recovery-public-record.md)
 - [Fault-injection hardening notes](docs/fault-injection-hardening-notes.md)
+- [Sample submission guide](docs/sample-submission-guide.md)
+- [Public report format](docs/report-format.md)
 - [Technical boundary](docs/technical-boundary.md)
+
+## Community Intake
+
+This repository can be used as a public evidence board and sanitized sample-intake point.
+
+If you have an AI / robot / device action-before-execution case, open an Issue with the title prefix `[Sample]` and follow the [sample submission guide](docs/sample-submission-guide.md).
+
+Please do not upload source code, customer data, device identifiers, keys, authentication material, production logs, or private implementation details.
 
 ## Boundary
 
